@@ -1,0 +1,57 @@
+.toolbar {
+    font-family: "Comic Sans MS";
+    display: flex;
+    justify-content: space-between;
+}
+.right-position {
+    float: right;
+
+}
+.section-left {
+    font-family: "Comic Sans MS";
+    overflow: hidden;
+
+}
+
+.section-right {
+    font-family: "Comic Sans MS";
+    width: 220px;
+    margin-left: 30px;
+    float: right;
+}
+.post {
+    font-family: "Comic Sans MS";
+    border: 1px solid black;
+    position: relative;
+
+
+}
+.post-title {
+    font-family: "Comic Sans MS";
+    margin: 5px;
+
+}
+.post-content {
+    font-family: "Comic Sans MS";
+    margin: 5px;
+    margin-bottom: 70px;
+    width: 500px;
+
+
+
+
+}
+
+.post-footer {
+    font-family: "Comic Sans MS";
+    margin: 5px;
+}
+.image {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.vertical-line{
+    padding: 0.5px;
+
+}
